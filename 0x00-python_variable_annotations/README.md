@@ -1,7 +1,7 @@
 # 0x00. Python - Variable Annotations
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:copyright: **[ALX School of Engineering8x8c](https://intranet.alxswe.com/)**  
 :bookmark: duck typing | python | type annotations | variable annotations
 
 ## Resources
