@@ -1,5 +1,8 @@
 # 0x01. Python - Async
 
+![image](https://github.com/Shell-thon/alx-backend-python/assets/113628692/470d485f-6bae-4259-a179-9901c351ba67)
+
+
 ## Resources
 Read or watch:
 - [Async IO in Python: A Complete Walkthrough](https://asyncio.readthedocs.io/en/latest/index.html)
